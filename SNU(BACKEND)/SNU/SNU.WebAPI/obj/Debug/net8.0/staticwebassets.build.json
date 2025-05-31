@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jAncs6SwI0f63onnuLq+uifIxtUN4WPdOuzIAHfDUWI=",
+  "Source": "SNU.WebAPI",
+  "BasePath": "_content/SNU.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

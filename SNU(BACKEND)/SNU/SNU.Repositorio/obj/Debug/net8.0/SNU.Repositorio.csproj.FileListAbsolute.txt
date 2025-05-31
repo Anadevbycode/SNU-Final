@@ -1,0 +1,45 @@
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.Repositorio/bin/Debug/net8.0/SNU.Repositorio.deps.json
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.Repositorio/bin/Debug/net8.0/SNU.Repositorio.dll
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.Repositorio/bin/Debug/net8.0/SNU.Repositorio.pdb
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.Repositorio/bin/Debug/net8.0/SNU.Dominio.dll
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.Repositorio/bin/Debug/net8.0/SNU.Dominio.pdb
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.Repositorio/obj/Debug/net8.0/SNU.Repositorio.csproj.AssemblyReference.cache
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.Repositorio/obj/Debug/net8.0/SNU.Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.Repositorio/obj/Debug/net8.0/SNU.Repositorio.AssemblyInfoInputs.cache
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.Repositorio/obj/Debug/net8.0/SNU.Repositorio.AssemblyInfo.cs
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.Repositorio/obj/Debug/net8.0/SNU.Repositorio.csproj.CoreCompileInputs.cache
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.Repositorio/obj/Debug/net8.0/SNU.Repo.AD6C3912.Up2Date
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.Repositorio/obj/Debug/net8.0/SNU.Repositorio.dll
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.Repositorio/obj/Debug/net8.0/refint/SNU.Repositorio.dll
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.Repositorio/obj/Debug/net8.0/SNU.Repositorio.pdb
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.Repositorio/obj/Debug/net8.0/ref/SNU.Repositorio.dll
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.Repositorio/bin/Debug/net8.0/SNU.Repositorio.deps.json
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.Repositorio/bin/Debug/net8.0/SNU.Repositorio.dll
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.Repositorio/bin/Debug/net8.0/SNU.Repositorio.pdb
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.Repositorio/bin/Debug/net8.0/SNU.Dominio.dll
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.Repositorio/bin/Debug/net8.0/SNU.Dominio.pdb
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.Repositorio/obj/Debug/net8.0/SNU.Repositorio.csproj.AssemblyReference.cache
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.Repositorio/obj/Debug/net8.0/SNU.Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.Repositorio/obj/Debug/net8.0/SNU.Repositorio.AssemblyInfoInputs.cache
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.Repositorio/obj/Debug/net8.0/SNU.Repositorio.AssemblyInfo.cs
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.Repositorio/obj/Debug/net8.0/SNU.Repositorio.csproj.CoreCompileInputs.cache
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.Repositorio/obj/Debug/net8.0/SNU.Repo.AD6C3912.Up2Date
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.Repositorio/obj/Debug/net8.0/SNU.Repositorio.dll
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.Repositorio/obj/Debug/net8.0/refint/SNU.Repositorio.dll
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.Repositorio/obj/Debug/net8.0/SNU.Repositorio.pdb
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.Repositorio/obj/Debug/net8.0/ref/SNU.Repositorio.dll
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.Repositorio/bin/Debug/net8.0/SNU.Repositorio.deps.json
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.Repositorio/bin/Debug/net8.0/SNU.Repositorio.dll
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.Repositorio/bin/Debug/net8.0/SNU.Repositorio.pdb
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.Repositorio/bin/Debug/net8.0/SNU.Dominio.dll
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.Repositorio/bin/Debug/net8.0/SNU.Dominio.pdb
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.Repositorio/obj/Debug/net8.0/SNU.Repositorio.csproj.AssemblyReference.cache
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.Repositorio/obj/Debug/net8.0/SNU.Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.Repositorio/obj/Debug/net8.0/SNU.Repositorio.AssemblyInfoInputs.cache
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.Repositorio/obj/Debug/net8.0/SNU.Repositorio.AssemblyInfo.cs
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.Repositorio/obj/Debug/net8.0/SNU.Repositorio.csproj.CoreCompileInputs.cache
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.Repositorio/obj/Debug/net8.0/SNU.Repo.AD6C3912.Up2Date
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.Repositorio/obj/Debug/net8.0/SNU.Repositorio.dll
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.Repositorio/obj/Debug/net8.0/refint/SNU.Repositorio.dll
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.Repositorio/obj/Debug/net8.0/SNU.Repositorio.pdb
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.Repositorio/obj/Debug/net8.0/ref/SNU.Repositorio.dll

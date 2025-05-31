@@ -1,0 +1,158 @@
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/appsettings.json
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/SNU.WebAPI.staticwebassets.endpoints.json
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/SNU.WebAPI.exe
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/SNU.WebAPI.deps.json
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/SNU.WebAPI.runtimeconfig.json
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/SNU.WebAPI.dll
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/SNU.WebAPI.pdb
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/SNU.Dominio.dll
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/SNU.Repositorio.dll
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/SNU.Servico.dll
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/SNU.Servico.pdb
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/SNU.Dominio.pdb
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/SNU.Repositorio.pdb
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/SNU.WebAPI.csproj.AssemblyReference.cache
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/SNU.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/SNU.WebAPI.AssemblyInfoInputs.cache
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/SNU.WebAPI.AssemblyInfo.cs
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/SNU.WebAPI.csproj.CoreCompileInputs.cache
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/SNU.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/SNU.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/scopedcss/bundle/SNU.WebAPI.styles.css
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/staticwebassets/msbuild.SNU.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/staticwebassets/msbuild.SNU.WebAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/staticwebassets/msbuild.build.SNU.WebAPI.props
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SNU.WebAPI.props
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SNU.WebAPI.props
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/staticwebassets.upToDateCheck.txt
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/SNU.WebAPI.csproj.Up2Date
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/SNU.WebAPI.dll
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/refint/SNU.WebAPI.dll
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/SNU.WebAPI.pdb
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/SNU.WebAPI.genruntimeconfig.cache
+C:/Users/Julia Lincoln/OneDrive/Área de Trabalho/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/ref/SNU.WebAPI.dll
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/appsettings.json
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/SNU.WebAPI.staticwebassets.endpoints.json
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/SNU.WebAPI.exe
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/SNU.WebAPI.deps.json
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/SNU.WebAPI.runtimeconfig.json
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/SNU.WebAPI.dll
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/SNU.WebAPI.pdb
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/SNU.Dominio.dll
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/SNU.Repositorio.dll
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/SNU.Servico.dll
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/SNU.Servico.pdb
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/SNU.Dominio.pdb
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/SNU.Repositorio.pdb
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/SNU.WebAPI.csproj.AssemblyReference.cache
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/SNU.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/SNU.WebAPI.AssemblyInfoInputs.cache
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/SNU.WebAPI.AssemblyInfo.cs
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/SNU.WebAPI.csproj.CoreCompileInputs.cache
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/SNU.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/SNU.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/scopedcss/bundle/SNU.WebAPI.styles.css
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/staticwebassets/msbuild.SNU.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/staticwebassets/msbuild.SNU.WebAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/staticwebassets/msbuild.build.SNU.WebAPI.props
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SNU.WebAPI.props
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SNU.WebAPI.props
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/staticwebassets.upToDateCheck.txt
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/SNU.WebAPI.csproj.Up2Date
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/SNU.WebAPI.dll
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/refint/SNU.WebAPI.dll
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/SNU.WebAPI.pdb
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/SNU.WebAPI.genruntimeconfig.cache
+C:/Users/UNIVASSOURAS/Desktop/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/ref/SNU.WebAPI.dll
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/appsettings.Development.json
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/appsettings.json
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/SNU.WebAPI
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/SNU.WebAPI.deps.json
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/SNU.WebAPI.runtimeconfig.json
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/SNU.WebAPI.dll
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/SNU.WebAPI.pdb
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/SNU.Dominio.dll
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/SNU.Repositorio.dll
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/SNU.Servico.dll
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/SNU.Servico.pdb
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/SNU.Dominio.pdb
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/bin/Debug/net8.0/SNU.Repositorio.pdb
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/SNU.WebAPI.csproj.AssemblyReference.cache
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/SNU.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/SNU.WebAPI.AssemblyInfoInputs.cache
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/SNU.WebAPI.AssemblyInfo.cs
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/SNU.WebAPI.csproj.CoreCompileInputs.cache
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/SNU.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/SNU.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/staticwebassets.build.json
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/staticwebassets.development.json
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/staticwebassets/msbuild.SNU.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/staticwebassets/msbuild.build.SNU.WebAPI.props
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SNU.WebAPI.props
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SNU.WebAPI.props
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/scopedcss/bundle/SNU.WebAPI.styles.css
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/SNU.WebAPI.csproj.Up2Date
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/SNU.WebAPI.dll
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/refint/SNU.WebAPI.dll
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/SNU.WebAPI.pdb
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/SNU.WebAPI.genruntimeconfig.cache
+/Users/marvy/Downloads/SNU(BACKEND)/SNU/SNU.WebAPI/obj/Debug/net8.0/ref/SNU.WebAPI.dll

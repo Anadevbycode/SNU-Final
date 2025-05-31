@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UNIVASSOURAS\\Desktop\\SNU(BACKEND)\\SNU\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{427142C1-C857-4CBD-8E66-385740E750CA}|SNU.Dominio\\SNU.Dominio.csproj|c:\\users\\univassouras\\desktop\\snu(backend)\\snu\\snu.dominio\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427142C1-C857-4CBD-8E66-385740E750CA}|SNU.Dominio\\SNU.Dominio.csproj|solutionrelative:snu.dominio\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5D7EA8-60EA-4038-8BE1-FAE9E9EA42C3}|SNU.WebAPI\\SNU.WebAPI.csproj|c:\\users\\univassouras\\desktop\\snu(backend)\\snu\\snu.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E5D7EA8-60EA-4038-8BE1-FAE9E9EA42C3}|SNU.WebAPI\\SNU.WebAPI.csproj|solutionrelative:snu.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5D7EA8-60EA-4038-8BE1-FAE9E9EA42C3}|SNU.WebAPI\\SNU.WebAPI.csproj|c:\\users\\univassouras\\desktop\\snu(backend)\\snu\\snu.webapi\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5D7EA8-60EA-4038-8BE1-FAE9E9EA42C3}|SNU.WebAPI\\SNU.WebAPI.csproj|solutionrelative:snu.webapi\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5D7EA8-60EA-4038-8BE1-FAE9E9EA42C3}|SNU.WebAPI\\SNU.WebAPI.csproj|c:\\users\\univassouras\\desktop\\snu(backend)\\snu\\snu.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E5D7EA8-60EA-4038-8BE1-FAE9E9EA42C3}|SNU.WebAPI\\SNU.WebAPI.csproj|solutionrelative:snu.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5D7EA8-60EA-4038-8BE1-FAE9E9EA42C3}|SNU.WebAPI\\SNU.WebAPI.csproj|c:\\users\\univassouras\\desktop\\snu(backend)\\snu\\snu.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5D7EA8-60EA-4038-8BE1-FAE9E9EA42C3}|SNU.WebAPI\\SNU.WebAPI.csproj|solutionrelative:snu.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\UNIVASSOURAS\\Desktop\\SNU(BACKEND)\\SNU\\SNU.WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SNU.WebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\UNIVASSOURAS\\Desktop\\SNU(BACKEND)\\SNU\\SNU.WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SNU.WebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-30T23:13:56.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\UNIVASSOURAS\\Desktop\\SNU(BACKEND)\\SNU\\SNU.Dominio\\Aluno.cs",
+              "RelativeDocumentMoniker": "SNU.Dominio\\Aluno.cs",
+              "ToolTip": "C:\\Users\\UNIVASSOURAS\\Desktop\\SNU(BACKEND)\\SNU\\SNU.Dominio\\Aluno.cs",
+              "RelativeToolTip": "SNU.Dominio\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T23:13:18.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\UNIVASSOURAS\\Desktop\\SNU(BACKEND)\\SNU\\SNU.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "SNU.WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\UNIVASSOURAS\\Desktop\\SNU(BACKEND)\\SNU\\SNU.WebAPI\\appsettings.json",
+              "RelativeToolTip": "SNU.WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-30T23:12:48.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlunoController.cs",
+              "DocumentMoniker": "C:\\Users\\UNIVASSOURAS\\Desktop\\SNU(BACKEND)\\SNU\\SNU.WebAPI\\Controllers\\AlunoController.cs",
+              "RelativeDocumentMoniker": "SNU.WebAPI\\Controllers\\AlunoController.cs",
+              "ToolTip": "C:\\Users\\UNIVASSOURAS\\Desktop\\SNU(BACKEND)\\SNU\\SNU.WebAPI\\Controllers\\AlunoController.cs",
+              "RelativeToolTip": "SNU.WebAPI\\Controllers\\AlunoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T23:06:47.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UNIVASSOURAS\\Desktop\\SNU(BACKEND)\\SNU\\SNU.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SNU.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\UNIVASSOURAS\\Desktop\\SNU(BACKEND)\\SNU\\SNU.WebAPI\\Program.cs",
+              "RelativeToolTip": "SNU.WebAPI\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T23:01:52.544Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

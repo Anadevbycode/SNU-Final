@@ -1,0 +1,6 @@
+@SNU.WebAPI_HostAddress = http://localhost:5223
+
+GET {{SNU.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
